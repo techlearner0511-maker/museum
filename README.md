@@ -1,5 +1,5 @@
 # The Collector's Ledger — deployment guide
-
+:)
 A static tracker page (`public/index.html`) backed by one serverless
 function (`api/state.js`) that stores your whole state as a single JSON
 value in Upstash Redis, so it survives across devices and browser data
